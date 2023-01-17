@@ -9,6 +9,7 @@ Para mi el trabajo en equipo es lo mas importante, siempre se puede aprender de 
 Me encanta desafiarme a mí mismo y resolver problemas. Y eso es algo que en programación tengo que hacer constantemente simplemente por naturaleza.
 
 <h4 align="left">Conectate conmigo:</h4>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/tomasflores-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mat%c3%adas-monastirsky/" height="30" width="40" /></a>
 </p>
