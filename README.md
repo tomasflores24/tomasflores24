@@ -20,7 +20,7 @@ Me encanta desafiarme a mí mismo y resolver problemas. Y eso es algo que en pro
   <tr>
     <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="50%"></a></td>
     <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" width="50%"></a></td>
-    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" width="50%"></a></td>
+    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="50%"></a></td>
   </tr>
   <tr>
     <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="50%"></a></td>
@@ -30,7 +30,7 @@ Me encanta desafiarme a mí mismo y resolver problemas. Y eso es algo que en pro
   <tr>
     <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" width="50%"></a></td>
     <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50%"></a></td>
-    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="50%"></a></td>
+    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" width="50%"></a></td>
   </tr>
   <tbody> 
 </table>
