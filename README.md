@@ -9,15 +9,15 @@ Actualmente, me encuentro perfeccionando mis habilidades en SQL, Scala, Apache S
 ## Experiencia destacada
 * Manipulación, transformación y análisis de datos con Python y R
   *   [Pizza Restaurant Sales Basket Analysis](#)
-  *   [Plan de evolución de negocio - Microsoft]
-  *   [Aplicación de escritorio y análisis de datos generados por usuarios]
+  *   [Plan de evolución de negocio - Microsoft](#)
+  *   [Aplicación de escritorio y análisis de datos generados por usuarios](#)
 * Desarrollo de procesos ETL con Python
-  * [Proceso ETL utilizando API de CoinGecko y cargando datos en Amazon Redshift]
+  * [Proceso ETL utilizando API de CoinGecko y cargando datos en Amazon Redshift](#)
 * Desarrollo web con Django y SASS.
-  * [App web tipo blog]
-  * [Calculadora para registro de alumnos nivel primario]
+  * [App web tipo blog](#)
+  * [Calculadora para registro de alumnos nivel primario](#)
 * Desarrollo de bases de datos relacionales.
-  * [Base de datos para App de restaurantes]
+  * [Base de datos para App de restaurantes](#)
 
 
 
