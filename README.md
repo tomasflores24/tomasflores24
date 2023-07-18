@@ -11,7 +11,7 @@ Me encanta desafiarme a mí mismo y resolver problemas. Y eso es algo que en pro
 ## Contacto
 
 <ul style="list-style-type: none">
-  <li><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="16px">: <a href="https://www.linkedin.com/in/tomasflores-dev/" width="10%">Tomas Cueva</a>
+  <li><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="16px">: <a href="https://www.linkedin.com/in/tomasflores-dev/" width="10%">Tomas Flores</a>
 </li>
   <li><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="16px"> : tomasflores.dev@gmail.com
 </li>
