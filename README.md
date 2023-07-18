@@ -8,7 +8,7 @@ Actualmente, me encuentro perfeccionando mis habilidades en SQL, Scala, Apache S
 
 ## Experiencia destacada
 * Manipulación, transformación y análisis de datos con Python y R
-  *   [Pizza Restaurant Sales Basket Analysis]
+  *   [Pizza Restaurant Sales Basket Analysis](#)
   *   [Plan de evolución de negocio - Microsoft]
   *   [Aplicación de escritorio y análisis de datos generados por usuarios]
 * Desarrollo de procesos ETL con Python
