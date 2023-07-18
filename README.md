@@ -7,6 +7,21 @@ Actualmente, me encuentro perfeccionando mis habilidades en SQL, Scala, Apache S
 Para mi el trabajo en equipo es lo mas importante, siempre se puede aprender de los demás. Me gusta ayudar a las personas si tienen problemas.
 Me encanta desafiarme a mí mismo y resolver problemas. Y eso es algo que en programación tengo que hacer constantemente simplemente por naturaleza.
 
+## Experiencia destacada
+* Manipulación, transformación y análisis de datos con Python y R
+  *   [Pizza Restaurant Sales Basket Analysis]
+  *   [Plan de evolución de negocio - Microsoft]
+  *   [Aplicación de escritorio y análisis de datos generados por usuarios]
+* Desarrollo de procesos ETL con Python
+  * [Proceso ETL utilizando API de CoinGecko y cargando datos en Amazon Redshift]
+* Desarrollo web con Django y SASS.
+  * [App web tipo blog]
+  * [Calculadora para registro de alumnos nivel primario]
+* Desarrollo de bases de datos relacionales.
+  * [Base de datos para App de restaurantes]
+
+## Objetivos
+Mi objetivo personal es crear un negocio que combine mi experiencia en el desarrollo de software y mi pasión por el deporte a través de la transformación e innovación digital de equipos de alto rendimiento.
 
 ## Contacto
 
