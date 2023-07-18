@@ -27,6 +27,11 @@ Me encanta desafiarme a mí mismo y resolver problemas. Y eso es algo que en pro
     <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50%"></a></td>
     <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="50%"></a></td>
   </tr>
+  <tr>
+    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="50%"></a></td>
+    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50%"></a></td>
+    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="50%"></a></td>
+  </tr>
   <tbody> 
 </table>
 
