@@ -1,4 +1,4 @@
-  # Hola 👋, soy Tomas Flores
+  #  Tomas Flores
 
 ### Desarrollador Full Stack de Argentina
 
