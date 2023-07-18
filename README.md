@@ -7,10 +7,17 @@ Actualmente, me encuentro perfeccionando mis habilidades en SQL, Scala, Apache S
 Para mi el trabajo en equipo es lo mas importante, siempre se puede aprender de los demás. Me gusta ayudar a las personas si tienen problemas.
 Me encanta desafiarme a mí mismo y resolver problemas. Y eso es algo que en programación tengo que hacer constantemente simplemente por naturaleza.
 
-<h4 align="left">Conectate conmigo:</h4>
-<p align="left">
-<a href="https://www.linkedin.com/in/tomasflores-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mat%c3%adas-monastirsky/" height="30" width="40" /></a>
-</p>
+
+## Contacto
+
+<ul style="list-style-type: none">
+  <li><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="16px">: <a href="https://www.linkedin.com/in/tomasflores-dev/" width="10%">Tomas Cueva</a>
+</li>
+  <li><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="16px"> : tomasflores.dev@gmail.com
+</li>
+</ul>
+
+
 
 <h3 align="left">Tecnologias:</h3>
 <table align="center" style="text-align: center;">
