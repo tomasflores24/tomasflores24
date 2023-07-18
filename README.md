@@ -18,7 +18,7 @@ Me encanta desafiarme a mí mismo y resolver problemas. Y eso es algo que en pro
 <table align="center" style="text-align: center;">
   <tbody widht= "10%">
   <tr>
-    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50%"></a></td>
+    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="50%"></a></td>
     <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" width="50%"></a></td>
     <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" width="50%"></a></td>
   </tr>
