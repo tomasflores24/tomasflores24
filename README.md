@@ -1,11 +1,10 @@
   #  Tomas Flores
 
+
 ## Acerca de mí
 Soy un programador Backend Engineer con 2 años de experiencia en el desarrollo de proyectos propios y académicos utilizando Python. 
 Actualmente, me encuentro perfeccionando mis habilidades en SQL, Scala, Apache Spark y scripting en Bash. Mi objetivo profesional es ser parte de un equipo de data donde pueda aplicar y desarrollar mis habilidades como Data Engineer.
 
-Para mi el trabajo en equipo es lo mas importante, siempre se puede aprender de los demás. Me gusta ayudar a las personas si tienen problemas.
-Me encanta desafiarme a mí mismo y resolver problemas. Y eso es algo que en programación tengo que hacer constantemente simplemente por naturaleza.
 
 ## Experiencia destacada
 * Manipulación, transformación y análisis de datos con Python y R
@@ -20,8 +19,11 @@ Me encanta desafiarme a mí mismo y resolver problemas. Y eso es algo que en pro
 * Desarrollo de bases de datos relacionales.
   * [Base de datos para App de restaurantes]
 
+
+
 ## Objetivos
 Mi objetivo personal es crear un negocio que combine mi experiencia en el desarrollo de software y mi pasión por el deporte a través de la transformación e innovación digital de equipos de alto rendimiento.
+
 
 ## Contacto
 
@@ -33,8 +35,8 @@ Mi objetivo personal es crear un negocio que combine mi experiencia en el desarr
 </ul>
 
 
+## Tecnologias
 
-<h3 align="left">Tecnologias:</h3>
 <table align="center" style="text-align: center;">
   <tbody widht= "10%">
   <tr>
