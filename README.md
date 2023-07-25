@@ -2,22 +2,16 @@
 
 
 ## Acerca de mí
-Soy un programador Backend Engineer con 2 años de experiencia en el desarrollo de proyectos propios y académicos utilizando Python. 
-Actualmente, me encuentro perfeccionando mis habilidades en SQL, Scala, Apache Spark y scripting en Bash. Mi objetivo profesional es ser parte de un equipo de data donde pueda aplicar y desarrollar mis habilidades como Data Engineer.
+Soy un Programador Backend con 1 año de experiencia en el desarrollo de proyectos propios y académicos utilizando Node js. Actualmente, me encuentro perfeccionando mis habilidades en Docker y Nest.
 
 
 ## Experiencia destacada
-* Manipulación, transformación y análisis de datos con Python y R
-  *   [Pizza Restaurant Sales Basket Analysis](#)
-  *   [Plan de evolución de negocio - Microsoft](#)
-  *   [Aplicación de escritorio y análisis de datos generados por usuarios](#)
-* Desarrollo de procesos ETL con Python
-  * [Proceso ETL utilizando API de CoinGecko y cargando datos en Amazon Redshift](#)
-* Desarrollo web con Django y SASS.
-  * [App web tipo blog](#)
-  * [Calculadora para registro de alumnos nivel primario](#)
-* Desarrollo de bases de datos relacionales.
-  * [Base de datos para App de restaurantes](#)
+* autenticación
+    * Notes(#)
+* Desarrollo de base de dato no relacional
+    * Base de datos para app de blog y ventas(#)
+* Desarrollo de base de datos relacional.
+    * Base de datos para app países(#)
 
 
 
