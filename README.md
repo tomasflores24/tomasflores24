@@ -7,11 +7,11 @@ Soy un Programador Backend con 1 año de experiencia en el desarrollo de proyect
 
 ## Experiencia destacada
 * autenticación
-    * Notes (#)
+    * [Notes] (#)
 * Desarrollo de base de dato no relacional
-    * Base de datos para app de blog y ventas (#)
+    * [Base de datos para app de blog y ventas] (#)
 * Desarrollo de base de datos relacional.
-    * Base de datos para app países (#)
+    * [Base de datos para app países] (#)
 
 
 
