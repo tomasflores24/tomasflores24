@@ -2,16 +2,16 @@
 
 
 ## Acerca de mí
-Soy un Programador Backend con 1 año de experiencia en el desarrollo de proyectos propios y académicos utilizando Node js. Actualmente, me encuentro perfeccionando mis habilidades en Docker y Nest.
+Programador Backend con 2 años de experiencia en el desarrollo de proyectos propios y en pasantías utilizando metodologías ágiles, test unitarios y las mejores prácticas de desarrollo.
 
 
 ## Experiencia destacada
-* autenticación
-    * [Notes](#)
-* Desarrollo de base de dato no relacional
-    * [Base de datos para app de blog y ventas](#)
-* Desarrollo de base de datos relacional.
-    * [Base de datos para app países](#)
+* Autenticación.
+    * [FisiumFulness](#)
+* Base de datos No Relacional
+    * [FisiumFulness](#)
+* Base de datos Relacional.
+    * [App países](#)
 
 
 
