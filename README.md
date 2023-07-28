@@ -41,7 +41,7 @@ Mi objetivo personal es crear un negocio que combine mi experiencia en el desarr
   <tr>
     <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50%"></a></td>
     <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50%"></a></td>
-    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="50%"></a></td>
+    <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="50%"></a></td>
   </tr>
   <tr>
     <td width="5%" align="center" style="vertical-align: middle;"><a href="#" width="10%"><img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" width="50%"></a></td>
