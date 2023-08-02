@@ -6,9 +6,7 @@ Programador Backend con 2 años de experiencia en el desarrollo de proyectos pro
 
 
 ## Experiencia destacada
-* Autenticación.
-    * [FisiumFulness](#)
-* Base de datos No Relacional
+* Base de datos No Relacional y Autenticación
     * [FisiumFulness](#)
 * Base de datos Relacional.
     * [App países](#)
