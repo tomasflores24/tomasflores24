@@ -2,14 +2,14 @@
 
 
 ## Acerca de mí
-Programador Backend con 2 años de experiencia en el desarrollo de proyectos propios y en pasantías utilizando metodologías ágiles, test unitarios y las mejores prácticas de desarrollo.
+Programador Backend con 1 año de experiencia en el desarrollo de proyectos propios y en pasantías utilizando metodologías ágiles, test unitarios y las mejores prácticas de desarrollo.
 
 
 ## Experiencia destacada
 * Base de datos No Relacional y Autenticación
     * [FisiumFulness](#)
 * Base de datos Relacional.
-    * [App países](#)
+    * [Munia](#)
 
 
 
