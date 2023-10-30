@@ -6,8 +6,9 @@ Programador Backend con 1 año de experiencia en el desarrollo de proyectos prop
 
 
 ## Experiencia destacada
-* Base de datos No Relacional y Autenticación
-    * [FisiumFulness](#)
+* Munia
+    * [Backend](https://github.com/tomasflores24/munia-sesiones-1-1-back)
+    * [Frontend](https://github.com/tomasflores24/munia-sesiones-1-1-client)
 * Base de datos Relacional.
     * [Munia](#)
 
