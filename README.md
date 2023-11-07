@@ -13,6 +13,9 @@ Programador Backend con 1 año de experiencia en el desarrollo de proyectos prop
     * [Back-End](https://github.com/tomasflores24/fisiumfulness-back)
     * [Front-End](https://github.com/tomasflores24/fisiomfulness-client)
 
+## Proyectos
+* Notes
+    * [Back-End](https://github.com/tomasflores24/notes-back)
 
 
 ## Objetivos
